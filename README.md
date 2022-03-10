@@ -39,6 +39,8 @@ including all the assumptions.
 2.Mess management.xlsx : This file contains the rough plan which we made before starting the project 1.This file also contains our final output that is the 
 ERD we made using workbench.
 
+![ERR Diagram (1)](https://user-images.githubusercontent.com/93220305/157744584-cc1b23a4-b2a6-40aa-9d6e-5d9dd2c20c3d.png)
+
 
 
 
@@ -54,5 +56,8 @@ cancellation form into a table upto 3NF.
 
 1.Hospital Management.sql : This file contains detailed sql codes of the project including all the assumptions.
 2.Hospital management project.xlsx : This file contains the original table which we extracted from the hospital management form and we normalized that table upto 3NF. This file also contains our final output that is the ERD we made using workbench.
+
+![ERR Diagram (1)](https://user-images.githubusercontent.com/93220305/157744635-f0a1e450-6658-4af5-b9b9-82d761e46161.png)
+
 
  
